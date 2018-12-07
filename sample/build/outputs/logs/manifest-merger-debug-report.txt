@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [:sweetlib] /Users/chenguoliang/sweet-alert-dialog/sweetlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7642d5072e98c12c5a1458f1b424d61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.pnikosis:materialish-progress:1.7] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/materialish-progress-1.7.aar/93347d3535efd28c2ddca722348c5944/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2a402fd9ccd32b2d4423c72e6ef976d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/255825ecdeb7f361ac4c031e0b912ea4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/83d2b33b638187af8d4a41fbf8dad9f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/584fee03bfa9779adc23c4c77e7664cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/056c85b44e994dfd7650d41167273be4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecd9a5f374efd67114fdffc65d47cedf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/12945b6d17cbcbeccfca63908f8a5f53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27cab1312bb7a9c0afa784b857e1489f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a80dd5157e44cd2ae8413fe51eb773f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3f13f5277de7974d3b413bba8ee9c80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/301ce0506cafa673cd34f00bccebe554/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5158749207e4acfae940faaef23545d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/185b71ffd7f9ba0cead87b68b989ecee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c53539642d69e3432c5cf6d2309282d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ba8fd5021a6dcb44c02b2d6a458225d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c77a0785708acbad52be701e8057358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eebdee4ead5c2faf7aeefc27f91fc157/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/956b0b24ba292b80419c1d12629e747d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e30b6957c08e7555a595ad623c0b795f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4f7ce46f901f5baae8047717ec92f44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/08ca359d9c036dab730d7d3c63f3ebcb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9ea1ab109f671c13f909156a8354f051/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5544ca1b28b7e46654f69909bf72cc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24c35c768fade70b0f9e3d173eb1360d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:3:11-48
+	android:versionName
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+application
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:6:5-14:19
+MERGED from [com.pnikosis:materialish-progress:1.7] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/materialish-progress-1.7.aar/93347d3535efd28c2ddca722348c5944/AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/materialish-progress-1.7.aar/93347d3535efd28c2ddca722348c5944/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c53539642d69e3432c5cf6d2309282d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c53539642d69e3432c5cf6d2309282d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:6:18-50
+	android:icon
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:6:51-87
+	android:theme
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:6:88-135
+activity#cn.pedant.SweetAlert.sample.SampleActivity
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:7:9-13:20
+	android:label
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:7:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+MERGED from [:sweetlib] /Users/chenguoliang/sweet-alert-dialog/sweetlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:sweetlib] /Users/chenguoliang/sweet-alert-dialog/sweetlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7642d5072e98c12c5a1458f1b424d61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7642d5072e98c12c5a1458f1b424d61/AndroidManifest.xml:20:5-44
+MERGED from [com.pnikosis:materialish-progress:1.7] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/materialish-progress-1.7.aar/93347d3535efd28c2ddca722348c5944/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/materialish-progress-1.7.aar/93347d3535efd28c2ddca722348c5944/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2a402fd9ccd32b2d4423c72e6ef976d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2a402fd9ccd32b2d4423c72e6ef976d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/255825ecdeb7f361ac4c031e0b912ea4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/255825ecdeb7f361ac4c031e0b912ea4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/83d2b33b638187af8d4a41fbf8dad9f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/83d2b33b638187af8d4a41fbf8dad9f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/584fee03bfa9779adc23c4c77e7664cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/584fee03bfa9779adc23c4c77e7664cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/056c85b44e994dfd7650d41167273be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/056c85b44e994dfd7650d41167273be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecd9a5f374efd67114fdffc65d47cedf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecd9a5f374efd67114fdffc65d47cedf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/12945b6d17cbcbeccfca63908f8a5f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/12945b6d17cbcbeccfca63908f8a5f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27cab1312bb7a9c0afa784b857e1489f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27cab1312bb7a9c0afa784b857e1489f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a80dd5157e44cd2ae8413fe51eb773f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a80dd5157e44cd2ae8413fe51eb773f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3f13f5277de7974d3b413bba8ee9c80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3f13f5277de7974d3b413bba8ee9c80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/301ce0506cafa673cd34f00bccebe554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/301ce0506cafa673cd34f00bccebe554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5158749207e4acfae940faaef23545d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5158749207e4acfae940faaef23545d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/185b71ffd7f9ba0cead87b68b989ecee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/185b71ffd7f9ba0cead87b68b989ecee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2d15610de8abd7b1deb72f1f753bc5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c53539642d69e3432c5cf6d2309282d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c53539642d69e3432c5cf6d2309282d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ba8fd5021a6dcb44c02b2d6a458225d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ba8fd5021a6dcb44c02b2d6a458225d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c77a0785708acbad52be701e8057358/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c77a0785708acbad52be701e8057358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eebdee4ead5c2faf7aeefc27f91fc157/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eebdee4ead5c2faf7aeefc27f91fc157/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/956b0b24ba292b80419c1d12629e747d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/956b0b24ba292b80419c1d12629e747d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e30b6957c08e7555a595ad623c0b795f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e30b6957c08e7555a595ad623c0b795f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4f7ce46f901f5baae8047717ec92f44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4f7ce46f901f5baae8047717ec92f44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/08ca359d9c036dab730d7d3c63f3ebcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/08ca359d9c036dab730d7d3c63f3ebcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9ea1ab109f671c13f909156a8354f051/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9ea1ab109f671c13f909156a8354f051/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5544ca1b28b7e46654f69909bf72cc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5544ca1b28b7e46654f69909bf72cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24c35c768fade70b0f9e3d173eb1360d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenguoliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24c35c768fade70b0f9e3d173eb1360d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenguoliang/sweet-alert-dialog/sample/src/main/AndroidManifest.xml

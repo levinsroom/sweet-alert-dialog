@@ -1,0 +1,4 @@
+#Fri Dec 07 16:43:42 CST 2018
+base.0=/Users/chenguoliang/sweet-alert-dialog/sample/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

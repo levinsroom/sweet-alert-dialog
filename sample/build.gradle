@@ -4,11 +4,11 @@ version = VERSION_NAME
 group = GROUP
 
 android {
-    compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
-        minSdkVersion 9
+        minSdkVersion 17
         targetSdkVersion 21
     }
 
@@ -23,9 +23,13 @@ android {
             shrinkResources true
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
     //compile 'cn.pedant.sweetalert:library:1.3'
-    compile project(':library')
+    implementation project(':sweetlib')
 }
